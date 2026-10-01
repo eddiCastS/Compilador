@@ -1,0 +1,16 @@
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\Ast.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\CodeGenerator.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\CompilerResult.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\Lexer.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\LexicalException.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\MainApp.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\MiniCompiler.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\Parser.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\ParserException.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\SemanticAnalyzer.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\SemanticError.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\SemanticResult.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\Symbol.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\SymbolTable.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\Token.java
+C:\Users\Eddi Castillo\Downloads\AnalizadorSemanticoJavaFX\AnalizadorSemanticoJavaFX\src\main\java\com\eduuu\compiler\TokenType.java
